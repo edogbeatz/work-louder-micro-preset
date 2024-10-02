@@ -6,7 +6,7 @@ This is a **preset configuration** designed specifically for the **Work Louder M
 
 For more information about the **Work Louder Micro**, visit the official website: [Work Louder Micro](https://worklouder.co/).
 
-![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/public/layer-0.png)
+![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/images/layer-0.png)
 
 ## Features of the Creator Micro Preset
 - **Preset for Multiple Layout Layers**: Switch between different layers of pre-configured shortcuts.
