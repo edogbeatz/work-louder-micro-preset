@@ -6,6 +6,8 @@ This setup is designed for **Figma** users on **Mac**, optimized for use with th
 
 For more information about the **Work Louder Micro**, visit the official website: [Work Louder Micro](https://worklouder.co/).
 
+![Creator Micro Layout](./images/creator_micro_layout.png)
+
 ## Features
 - **Multiple Layout Layers**: Switch between different sets of shortcuts for various tasks.
 - **Auto Layout Control**: Add and remove auto layouts quickly.
@@ -68,3 +70,6 @@ The layout structure is flexible for customization:
 - **Encoders**: Programmable encoders for undo/redo, object adjustments, etc.
 
 For advanced configuration, use the Via App or refer to the JSON file directly.
+
+## Download the Layout JSON
+Download the configuration file here: [creator_micro.layout.json](https://github.com/edogbeatz/work-louder-micro-preset/blob/main/creator_micro.layout.json)
