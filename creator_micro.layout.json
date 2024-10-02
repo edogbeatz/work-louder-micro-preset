@@ -1,0 +1,110 @@
+{
+  "name": "Creator Micro",
+  "vendorProductId": 1464657635,
+  "macros": [
+    "KC_LCTL,KC_LSFT,KC_A",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "{+KC_LGUI}]"
+  ],
+  "layers": [
+    [
+      "G(KC_T)",
+      "KC_LALT",
+      "KC_LGUI",
+      "KC_NO",
+      "G(KC_C)",
+      "G(KC_V)",
+      "G(KC_D)",
+      "LSG(KC_R)",
+      "LAG(KC_C)",
+      "LAG(KC_V)",
+      "LAG(KC_O)",
+      "LAG(KC_K)",
+      "TO(0)",
+      "S(KC_A)",
+      "A(KC_A)",
+      "TO(1)"
+    ],
+    [
+      "G(KC_T)",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "TO(0)",
+      "KC_NO",
+      "KC_NO",
+      "TO(2)"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "TO(2)",
+      "KC_NO",
+      "KC_NO",
+      "TO(3)"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "TO(3)",
+      "KC_NO",
+      "KC_NO",
+      "TO(0)"
+    ]
+  ],
+  "encoders": [
+    [
+      ["G(KC_Z)", "LSG(KC_Z)"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO"]
+    ],
+    [
+      ["G(KC_LBRC)", "G(KC_RBRC)"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO"]
+    ]
+  ]
+}
