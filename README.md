@@ -9,6 +9,10 @@ For more details on the **Work Louder Micro**, visit: [Work Louder Micro](https:
 ![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/images/layer-0.png)
 
 ## Features of the Creator Micro Preset
+- **App Customization**: This preset is fully customizable via the [Via App](https://usevia.app/), allowing users to adjust the layout to their specific needs.
+
+## Shortcuts
+
 ### Layer 0 (Default)
 - **Undo/Redo**: Command + Z / Shift + Command + Z
 - **Option**: Use the Option key for alternative actions
@@ -20,10 +24,8 @@ For more details on the **Work Louder Micro**, visit: [Work Louder Micro](https:
 - **Convert to Outline**: Convert selected objects to outlines
 - **Create Component**: Turn selections into reusable components
 - **Add/Remove Auto Layout**: Control auto layout options with dedicated buttons
-- **App Customization**: This preset is fully customizable via the [Via App](https://usevia.app/), allowing users to adjust the layout to their specific needs.
 
 ## How to Use
-
 1. **Open the Via App**: Go to [Via App](https://usevia.app/) to load and customize the `creator_micro.layout.json` preset.
 2. **Connect & Apply**: Load the preset in the app, connect your **Work Louder Micro**, and apply the configuration.
 3. **Switch Layers**: Use the `Switch Layer` key on the macro pad to toggle between preset layers.
