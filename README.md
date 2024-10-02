@@ -6,7 +6,8 @@ This setup is designed for **Figma** users on **Mac**, optimized for use with th
 
 For more information about the **Work Louder Micro**, visit the official website: [Work Louder Micro](https://worklouder.co/).
 
-![Creator Micro Layout](./images/creator_micro_layout.png)
+![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/images/layer-0.png)
+
 
 ## Features
 - **Multiple Layout Layers**: Switch between different sets of shortcuts for various tasks.
