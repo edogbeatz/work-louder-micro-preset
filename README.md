@@ -4,7 +4,7 @@
 ## Overview
 This is a **preset configuration** designed specifically for the **Work Louder Micro** device, tailored for **Figma** users on **Mac**. The **Creator Micro** preset provides streamlined shortcuts for efficient navigation and workflow in Figma. With multiple layers and extensive macro options, it enhances productivity by offering quick access to common design operations such as clipboard management, layout control, and component creation.
 
-For more information about the **Work Louder Micro**, visit the official website: [Work Louder Micro](https://worklouder.co/).
+For more information about the **Work Louder Micro**, visit the official website: [Work Louder Micro](https://worklouder.xyz/).
 
 ![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/images/layer-0.png)
 
