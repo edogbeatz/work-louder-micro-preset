@@ -28,8 +28,7 @@ For more details on the **Work Louder Micro**, visit: [Work Louder Micro](https:
 ## How to Use
 1. **Open the Via App**: Go to [Via App](https://usevia.app/) to load and customize the `creator_micro.layout.json` preset.
 2. **Connect & Apply**: Load the preset in the app, connect your **Work Louder Micro**, and apply the configuration.
-3. **Switch Layers**: Use the `Switch Layer` key on the macro pad to toggle between preset layers.
-4. **Custom Macros**: Further customize through the Via App.
+3. **Custom Macros**: Further customize through the Via App.
 
 ## Download the Preset
 Download the preset in **JSON format**: [creator_micro.layout.json](https://github.com/edogbeatz/work-louder-micro-preset/blob/main/creator_micro.layout.json)
