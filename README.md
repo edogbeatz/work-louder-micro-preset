@@ -9,7 +9,6 @@ For more information about the **Work Louder Micro**, visit the official website
 ![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/images/layer-0.png)
 
 ## Features of the Creator Micro Preset
-- **Preset for Multiple Layout Layers**: Switch between different layers of pre-configured shortcuts.
 - **Auto Layout Control**: Add and remove auto layouts quickly with dedicated keys.
 - **Component Management**: Create components and convert outlines efficiently.
 - **Clipboard Operations**: Manage copy, paste, and duplication with ease.
