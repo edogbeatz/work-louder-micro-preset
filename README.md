@@ -9,12 +9,17 @@ For more details on the **Work Louder Micro**, visit: [Work Louder Micro](https:
 ![Creator Micro Layout](https://github.com/edogbeatz/work-louder-micro-preset/raw/main/images/layer-0.png)
 
 ## Features of the Creator Micro Preset
-- **Preset for Multiple Layout Layers**: Switch between different layers of pre-configured shortcuts.
-- **Auto Layout Control**: Add and remove auto layouts quickly with dedicated keys.
-- **Component Management**: Create components and convert outlines efficiently.
-- **Clipboard Operations**: Manage copy, paste, and duplication with ease.
-- **Undo/Redo**: Instant access to undo and redo actions with a single keystroke.
-- **Modular Grid System**: This preset is designed with modularity in mind for seamless customization.
+### Layer 0 (Default)
+- **Undo/Redo**: Command + Z / Shift + Command + Z
+- **Option**: Use the Option key for alternative actions
+- **Command**: The Mac Command key for multiple functions
+- **Bring Forward/Backward**: Move objects forward or backward in the layer stack
+- **Copy/Paste**: Basic copy and paste functionality
+- **Duplicate**: Quickly duplicate elements
+- **Paste to Replace**: Paste content to replace selected elements
+- **Convert to Outline**: Convert selected objects to outlines
+- **Create Component**: Turn selections into reusable components
+- **Add/Remove Auto Layout**: Control auto layout options with dedicated buttons
 - **App Customization**: This preset is fully customizable via the [Via App](https://usevia.app/), allowing users to adjust the layout to their specific needs.
 
 ## How to Use
